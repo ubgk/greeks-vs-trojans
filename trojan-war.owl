@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#"
+     xml:base="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#allyOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#allyOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#blessedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#blessedBy">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Divinity"/>
+        <owl:propertyDisjointWith rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#cursedBy"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#cursedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#cursedBy">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Divinity"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#enemyOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#enemyOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Actor"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Actor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#fightsFor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#fightsFor">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#rulesOver"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#hasKilled -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#hasKilled">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isKilledBy"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#hates -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#hates">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <owl:propertyDisjointWith rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#loves"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isCapitalOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isCapitalOf">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Kingdom"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#City"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isKilledBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isKilledBy">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Actor"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Actor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isMarriedTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isMarriedTo">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isMotherOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isMotherOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isSiblingOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isSiblingOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <owl:propertyDisjointWith rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#loves -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#loves">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#rulesOver -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#rulesOver">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Royalty"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Place"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isFatherOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isFatherOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Man"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#fieldOfDivinity -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#fieldOfDivinity">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Divinity"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#numberOfShips -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#numberOfShips">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Kingdom"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#numberOfSoldiers -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#numberOfSoldiers">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Kingdom"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#realm -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#realm">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Kingdom"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Achaean -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Achaean">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Actor -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Actor"/>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#City -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#City">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demigod -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demigod">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hero"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Divinity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Divinity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hero -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hero">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Human -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Human">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#King -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#King">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Man"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Royalty"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Kingdom -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Kingdom">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Man -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Man">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Monster -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Monster">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Actor"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Actor"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Place -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Place"/>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Queen -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Queen">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Royalty"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Royalty -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Royalty">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Person"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Uranus -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Uranus"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
