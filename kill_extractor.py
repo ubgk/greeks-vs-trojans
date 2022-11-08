@@ -64,5 +64,5 @@ for vict, killer in utils.victims.items():
 
 new_ontology = dom.toprettyxml()
 
-with open(f"{ont_name}-auto.owl", "w") as f:
+with open(f"{ont_name}.owl", "w") as f:
     f.write(new_ontology)
