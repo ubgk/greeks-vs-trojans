@@ -1,0 +1,507 @@
+Antilochus (A) kills Echepolus (T) (spear in the head) (4.529)
+
+Agenor (T) kills Elephenor (A) (spear in the side) (4.543)
+
+Telamonian Ajax (A) kills Simoeisius (T) (speared in the nipple) (4.549)
+
+Antiphus (T) kills Leucus (A) (speared in the groin) (4.569)
+
+Odysseus (A) kills Democoön (T) (spear through the head) (4.579)
+
+Peirous (T) kills Diores (A) (hit with a rock, then speared in the gut) (4.598)
+
+Thoas (A) kills Peirous (T) (spear in the chest, sword in the gut) (4.608)
+
+Diomedes (A) kills Phegeus (T) (spear in the chest) (5.19)
+
+Agamemnon (A) kills Odius (T) (spear in the back) (5.42)
+
+Idomeneus (A) kills Phaestus (spear in the shoulder) (5.48)
+
+Menelaus (A) kills Scamandrius (spear in the back) (5.54)
+
+Meriones (A) kills Phereclus (T) (spear in the buttock) (5.66)
+
+Meges (A) kills Pedaeus (A) (spear in the neck) (5.78)
+
+Eurypylus (A) kills Hypsenor (T) (arm cut off) (5.86)
+
+Diomedes (A) kills Astynous (T) (spear in the chest) (5.164)
+
+Diomedes (A) kills Hypeiron (T) (sword in the collar bone) (5.165)
+
+Diomedes (A) kills Abas (T) (5.170)
+
+Diomedes (A) kills Polyidus (T) (5.170)
+
+Diomedes (A) kills Xanthus (T) (5.174)
+
+Diomedes (A) kills Thoon (T) (5.174)
+
+Diomedes (A) kills Echemmon (T) (5.182)
+
+Diomedes (A) kills Chromius (T) (5.182)
+
+Diomedes (A) kills Pandarus (T) (spear in the nose) (5.346)
+
+Diomedes (A) wounds Aeneas (T) with a rock (5.359)
+
+Agamemnon (A) kills Deicoon (T), spear in the stomach (5.630)
+
+Aeneas (T) kills Crethon (A)
+
+Aeneas (T) kills Orsilochus (A)
+
+Menelaus (A) kills Pylaemenes (T), spear in the collar bone (5.675)
+
+Antilochus (A) kills Mydon (T), sword in the head, stomped by his horses (5.680)
+
+Hector (T) kills Menesthes (A) (5.714)
+
+Hector (T) kills Anchialus (A) (5.714)
+
+Telamonian Ajax kills Amphius (T), spear in the gut (5.717)
+
+Sarpedon (T) kills Tlepolemus (A), spear in the neck (5.764)
+
+Tlepolemus (A) wounds Sarpedon (T) spear in the thigh (5.764)
+
+Odysseus (A) kills Coeranus (T) (5.783)
+
+Odysseus (A) kills Alastor (T) (5.783)
+
+Odysseus (A) kills Chromius (T) (5.783)
+
+Odysseus (A) kills Alcandrus (T) (5.784)
+
+Odysseus (A) kills Halius (T) (5.784)
+
+Odysseus (A) kills Noemon (T) (5.784)
+
+Odysseus (A) kills Prytanis (T) (5.784)
+
+Hector (T) kills Teuthras (A) (5.811)
+
+Hector (T) kills Orestes (A) (5.811)
+
+Hector (T) kills Trechus (A) (5.812)
+
+Hector (T) kills Oenomaus (A) (5.812)
+
+Hector (T) kills Helenus (A) (5.813)
+
+Hector (T) kills Oresbius (A) (5.813)
+
+Ares kills Periphas (A) (5.970)
+
+Diomedes wounds Ares in the gut (5.980)
+
+Telamonian Ajax (A) kills Acamas (T), spear in the head (6.9)
+
+Diomedes (A) kills Axylus (T) (6.14)
+
+Diomedes (A) kills Calesius (T) (6.20)
+
+Euryalus (A) kills Dresus (T) (6.23)
+
+Euryalus (A) kills Opheltius (T) (6.23)
+
+Euryalus (A) kills Aesepus (T) (6.24)
+
+Euryalus (A) kills Pedasus (T) (6.24)
+
+Polypoetes (A) kills Astyalus (T) (6.33)
+
+Odysseus (A) kills Pidytes (T), with his spear (6.34)
+
+Teucer (A) kills Aretaon (T) (6.35)
+
+Antilochus (A) kills Ableros (T), with his spear (6.35)
+
+Agamemnon (A) kills Elatus (T) (6.38)
+
+Leitus (A) kills Phylacus (T) (6.41)
+
+Eurypylus (A) kills Melanthius (6.42)
+
+Agamemnon (A) kills Adrestus (T), spear in the side (6.76)
+
+Paris (T) kills Menesthius (A) (7.8)
+
+Hector (T) kills Eioneus (A), spear in the neck (7.11)
+
+Glaucus (T) kills Iphinous (A), spear in the shoulder (7.13)
+
+Diomedes (A) kills Eniopeus (T), spear in the chest (8.138)
+
+Diomedes (A) kills Agelaos (T), spear in the back (8.300)
+
+Teucer (A) kills Orsilochos (T), with an arrow (8.321)
+
+Teucer (A) kills Ormenus (T), with an arrow (8.321)
+
+Teucer (A) kills Ophelestes (T), with an arrow (8.321)
+
+Teucer (A) kills Daitor (T), with an arrow (8.322)
+
+Teucer (A) kills Chromius (T), with an arrow (8.322)
+
+Teucer (A) kills Lycophontes (T), with an arrrow (8.322)
+
+Teucer (A) kills Amopaon (T), with an arrow (8.323)
+
+Teucer (A) kills Melanippus (T), with an arrow (8.323)
+
+Teucer (A) kills Gorgythion (T), with an arrow (8.353)
+
+Teucer (A) kills Archeptolemos (T), with an arrow (8.363)
+
+Hector (T) wounds Teucer (A), with a rock (8.380)
+
+Diomedes (A) kills Dolon (T), sword across the neck (10.546)
+
+Diomedes (A) kills twelve sleeping Thracian soldiers (10.579) (includes Rhesus)
+
+Agamemnon (A) kills Bienor (T) (11.99)
+
+Agamemnon (A) kills Oileus (T), spear in the head, (11.103)
+
+Agamemnon (A) kills Isus (T), spear in the chest (11.109)
+
+Agamemnon (A) kills Antiphus (T), sword in the head (11.120)
+
+Agamemnon (A) kills Peisander (T), spear in the chest (11.160)
+
+Agamemnon (A) kills Hippolochus (T), sword cuts off his head (11.165)
+
+Agamemnon (A) kills Iphidamas T), sword in the neck (11.270)
+
+Coön (T) wounds Agamemnon (A), spear in the arm (11.288)
+
+Agamemnon (A) kills Coön (T), spear in the side (11.295)
+
+Hector (T) kills Asaeus (A) (11.341)
+
+Hector (T) kills Autonous (A) (11.341)
+
+Hector (T) kills Opites (A) (11.341)
+
+Hector (T) kills Dolops (A) (11.342)
+
+Hector (T) kills Opheltius (A) (11.324)
+
+Hector (T) kills Agelaus (A) (11.325)
+
+Hector (T) kills Aesymnus (A) (11.325)
+
+Hector (T) kills Orus (A) (11.343)
+
+Hector (T) kills Hipponous (A) (11.325)
+
+Diomedes (A) kills Thymbraeus (T), spear in the chest (11.364)
+
+Odysseus (A) kills Molion (T) (11.366)
+
+Diomedes (A) kills two sons of Merops (Adrestus and Amphius) (T) (11.375)
+
+Odysseus (A) kills Hippodamas (T) (11.381)
+
+Odysseus (A) kills Hypeirochus (T) (11.381)
+
+Diomedes (A) kills Agastrophus (T), spear in the hip (11.384)
+
+Paris (T) wounds Diomedes (A), arrow in the foot (11.430)
+
+Odysseus (A) kills Deïopites (T) (11.479)
+
+Odysseus (A) kills Thoön (T) (11.481)
+
+Odysseus (A) kills Ennomus (A) (11.481)
+
+Odysseus (A) kills Chersidamas (T), spear in the groin (11.481)
+
+Odyssues (A) kills Charops (T) (11.485)
+
+Odysseus (A) kills Socus (T), spear in the back (11.506)
+
+Socus (T) wounds Odysseus (A), spear in the ribs (11.493)
+
+Telamonian Ajax (A) kills Doryclus (T) (11.552)
+
+Telamonian Ajax (A) kills Pandocus (T) (11.553)
+
+Telamonian Ajax (A) kills Lysander (T) (11.554)
+
+Telamonian Ajax (A) kills Pyrasus (T) (11.554)
+
+Telamonian Ajax (A) kills Pylartes (T) (11.554)
+
+Eurypylus (A) kills Apisaon (T), spear in the liver (11.650)
+
+Polypoetes (A) kills Damasus (T), spear through the cheek (12.190);
+
+Polypoetes (A) kills Pylon (T) (12.194)
+
+Polypoetes (A) kills Ormenus (T) (12.194)
+
+Leonteus (A) kills Hippomachus, spear in the stomach (12.196)
+
+Leonteus (A) kills Antiphates (T), struck with a sword (12.198)
+
+Leonteus (A) kills Menon (T) (12.201)
+
+Leonteus (A) kills Iamenus (T) (12.201)
+
+Leonteus (A) kills Orestes (T) (12.201)
+
+Telamonian Ajax (A) kills Epicles (T), rock in the skull (12.416)
+
+Teucer (A) wounds Glaucus (T), arrow in the arm (12.425)
+
+Sarpedon (T) kills Alcmaon (A), spear in the body (12.434)
+
+Teucer (A) kills Imbrius (T), spear in the ear (13.198)
+
+Hector (T) kills Amphimachus (A), spear in the chest (13.227)
+
+Idomeneus (A) kills Othryoneus (T), spear in the gut, (13.439 ff)
+
+Idomeneus (A) kills Asius (T), spear in the neck (13.472)
+
+Antilochus (A) kills Asius' charioteer, spear in the gut (13.482)
+
+Deïphobus (T) kills Hypsenor (A), spear in the liver (13.488) (wounded?)
+
+Idomeneus (A) kills Alcathous (T), spear in the chest (13.514 ff)
+
+Idomeneus (A) kills Oenomaus (T), spear in the stomach (13.608)
+
+Deïphobus (T) kills Ascalaphus (A), spear in the shoulder (13.621)
+
+Meriones (A) wounds Deïphobus (T) spear in the arm (13.634)
+
+Aeneas (T) kills Aphareus (A), spear in the throat (13.647)
+
+Antilochus (A) kills Thoön (A), spear in the back) (13.652).
+
+Meriones (A) kills Adamas (T), spear in the testicles (13.677).
+
+Helenus (T) kills Deïpyrus (A), sword on the head (13.687)
+
+Menelaus (A) wounds Helenus (T), spear in the hand (13.705)
+
+Menelaus (A) kills Peisander (T), sword in the head (13.731)
+
+Meriones (A) kills Harpalion (T), arrow in the buttock (13.776)
+
+Paris (T) kills Euchenor (A), arrow in the jaw (13.800)
+
+Telamonian Ajax (A) hits Hector (T) with a rock (14.477)
+
+Oïlean Ajax (A) kills Satnius (T), spear in the side (14.517)
+
+Polydamas (T) kills Prothoënor (A), spear in the shoulder (14.525)
+
+Telamonian Ajax (A) kills Archelochus, spear in the neck (14.540)
+
+Acamas (T) kills Promachus (A), spear (14.555)
+
+Peneleus (A) kills Ilioneus (T), spear in the eye (14.570)
+
+Telamonian Ajax (A) kills Hyrtius (14.597)
+
+Meriones (A) kills Morys (14.601)
+
+Meriones (A) kills Hippotion (14.601)
+
+Teucer (A) kills Prothoön (T) (14.602)
+
+Teucer (A) kills Periphetes (T) (14.602)
+
+Menelaus (A) kills Hyperenor (T), spear through the side (14.603)
+
+Antilochus (A) kills Phalces (T) (14.600)
+
+Antilochus (A) kills Mermerus (T) (14.600)
+
+Hector (T) kills Stichius (A) (15.389)
+
+Hector (T) kills Arcesilaus (A) (15.389)
+
+Aeneas (T) kills Medon (A) (15.392)
+
+Aeneas (T) kills Iasus (A) (15.392)
+
+Polydamas (T) kills Mecisteus (A) (15.399)
+
+Polites (T) kills Echius (A) (15.400)
+
+Agenor (T) kills Clonius (15.401)
+
+Paris (T) kills Deïochus (A), spear through the back (15.402)
+
+Telamonian Ajax (A) kills Caletor (T), spear in the chest (15.491)
+
+Hector (T) kills Lycophron (A) spear in the head (15.503)
+
+Teucer (A) kills Cleitus (A), arrow in the back of the neck (15.521)
+
+Hector (T) kills Schedius (A) (15.607)
+
+Telamonian Ajax (A) kills Laodamas (T) (15.608)
+
+Polydamas (T) kills Otus (A) (15.610)
+
+Meges (A) kills Croesmus (T), spear in the chest (15.616)
+
+Menelaus (A) kills Dolops (T), speared in the back (15.636)
+
+Antilochus (A) kills Melanippus (T), spear in the chest (15.675)
+
+Hector (T) kills Periphetes (A), spear in the chest (15.744)
+
+Patroclus (A) kills Pyraechmes (T), spear in the shoulder (16.339)
+
+Patroclus (A) kills Areilycus (T), spear in the thigh (16.361)
+
+Menelaus (A) kills Thoas (T), spear in the chest (16.365)
+
+Meges (A) kills Amphiclus (T), spear in the leg (16.367)
+
+Antilochus (A) kills Atymnius (T), spear in the side (16.372)
+
+Thrasymedes (A) kills Maris (T), spear in the shoulder (16.377)
+
+Oïlean Ajax (A) kills Cleobulus (T), sword in the neck (16.386)
+
+Peneleus (A) kills Lyco (A), sword in the neck (16.395)
+
+Meriones (A) kills Acamas (T), spear in the shoulder (16.399)
+
+Idomeneus (A) kills Erymas (T), spear in the mouth (16.403)
+
+Patroclus (A) kills Pronous (T), spear in the chest (16.464)
+
+Patroclus (A) kills Thestor (T), spear in the head (16.477)
+
+Patroclus (A) kills Erylaus (T), rock on the head (16.479)
+
+Patroclus (A) kills Erymas (T) (16.484)
+
+Patroclus (A) kills Amphoterus (T) (16.484)
+
+Patroclus (A) kills Epaltes (T) (16.484)
+
+Patroclus (A) kills Tlepolemus (T) (16.485)
+
+Patroclus (A) kills Echius (T) (16.485)
+
+Patroclus (A) kills Pyris (T) (16.486)
+
+Patroclus (A) kills Ipheus (T) (16.486)
+
+Patroclus (A) kills Euippus (T) (16.486)
+
+Patroclus (A) kills Polymelus (T) (16.486)
+
+Patroclus (A) kills Thrasymedes (T), spear in the gut (16.542)
+
+Patroclus (A) kills Sarpedon (T), spear in the chest (16.559)
+
+Hector (T) kills Epeigeus (A), rock on the head (16.666)
+
+Patroclus (A) kills Sthenelaus (T), rock on the head (16.682)
+
+Glaucus (T) kills Bathycles (A), spear in the chest (16.691)
+
+Meriones (A) kills Laogonus (T), spear in the jaw (16.702)
+
+Patroclus (A) kills Adrestus (T) (16.808)
+
+Patroclus (A) kills Autonous (T) (16.809)
+
+Patroclus (A) kills Echeclus (T) (16.809)
+
+Patroclus (A) kills Perimus (T) (16.809)
+
+Patroclus (A) kills Epistor (T) (16.810)
+
+Patroclus (A) kills Melanippus (T) (16.810)
+
+Patroclus (A) kills Elasus (T) (16.811)
+
+Patroclus (A) kills Mulius (T) (16.811)
+
+Patroclus (A) kills Pylartes (T) (16.811)
+
+Patroclus (A) kills Cebriones (T), rock in the head (16.859)
+
+Patroculs (A) kills twenty-seven anonymous Trojans (16.913)
+
+Hector (T) kills Patroclus (A) (16.993)
+
+Menelaus (A) kills Euphorbus (T), spear in the throat (17.60)
+
+Telamonian Ajax (A) kills Hippothous (T), spear in the head (17.377)
+
+Hector (T) kills Schedius (A), spear in the collar (17.393)
+
+Telamonian Ajax (A) kills Phorcys (T), spear in the gut (17.399)
+
+Aeneas (T) kills Leocritus (A), (17.439);
+
+Lycomedes (A) kills Apisaon (T) (17.443)
+
+Automedon (A) kills Aretus (T), spear in the gut (17.636)
+
+Menelaus (T) kills Podes (T), spear in the stomach (17.704)
+
+Hector (T) kills Coeranus (A), spear in the head (17.744)
+
+Achilles (A) kills Iphition (T), spear in the head (20.463)
+
+Achilles (A) kills Demoleon (T), spear in the head (20.476)
+
+Achilles (A) kills Hippodamas (T), spear in the back (20.480)
+
+Achilles (A) kills Polydorus (T), spear in the back (20.488)
+
+Achilles (A) kills Dryops (T), spear in the knee, sword thrust (20.546)
+
+Achilles (A) kills Demouchos (T) spear thrust (20.548).
+
+Achilles (A) kills Laogonus (T), spear thrust (20.551)
+
+Achilles (A) kills Dardanus (T), sword thrust (20.551)
+
+Achilles (A) kills Tros (T), sword in the liver (20.555)
+
+Achilles (A) kills Mulius (T), spear in the head (20.567)
+
+Achilles (A) kills Echeclus (T), sword on the head (20.569)
+
+Achilles (A) kills Deucalion (T), sword in the neck (20.573)
+
+Achilles (A) kills Rhigmus (T), spear in the gut (20.581)
+
+Achilles (A) kills Areithous (T), spear in the back (20.586)
+
+Achilles (A) kills Lycaon (T), sword in the neck (21.138)
+
+Achilles (A) kills Asteropaeus (T), sword in the stomach (21.215)
+
+Achilles (A) kills Thersilochus (T) (21.249)
+
+Achilles (A) kills Mydon (T) (21.249)
+
+Achilles (A) kills Astypylus (T) (21.250)
+
+Achilles (A) kills Mnesus (T) (21.250)
+
+Achilles (A) kills Thrasius (T) (21.250)
+
+Achilles (A) kills Aenius (T) (21.250)
+
+Achilles (A) kills Ophelestes (T) (21.251)
+
+Achilles (A) kills Hector (T), spear through the throat (22.410)
