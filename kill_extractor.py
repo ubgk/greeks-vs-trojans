@@ -53,11 +53,14 @@ for vict, killer in utils.victims.items():
         killer_elem = create_individual(killer, dom)
 
     killer_ref = killer_elem.getAttribute("rdf:about")
-
     killed_by_elem = dom.createElement("isKilledBy")
     killed_by_elem.setAttribute("rdf:resource", killer_ref)
-
     vict_elem.appendChild(killed_by_elem)
+
+    vict_ref = vict_elem.getAttribute("rdf:about")
+    has_killed_elem = dom.createElement("hasKilled")
+    has_killed_elem.setAttribute("rdf:resource", vict_ref)
+    killer_elem.appendChild(has_killed_elem)
 
 
 # dom.getElementsByTagName("owl:Ontology")[0].setAttribute("rdf:about", f"{ont_name}-auto")
