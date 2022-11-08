@@ -567,22 +567,6 @@
 
 
     
-	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated -->
-	
-
-    
-	<owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated">
-		
-        
-		<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal"/>
-		
-    
-	</owl:Class>
-	
-
-
-
-    
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Character -->
 	
 
@@ -1081,6 +1065,30 @@
 The main Greek hero whose wrath is an important element of the Iliad.</rdfs:comment>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mydon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ophelestes"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hippodamas"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Laogonus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Echeclus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mulius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Iphition"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demoleon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Polydorus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Dryops"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demouchos"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Dardanus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Tros"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Deucalion"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Rhigmus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Areithous"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Lycaon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Asteropaeus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thersilochus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Astypylus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mnesus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thrasius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aenius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hector"/>
 	</owl:NamedIndividual>
 	
 
@@ -1105,6 +1113,12 @@ The main Greek hero whose wrath is an important element of the Iliad.</rdfs:comm
 Aphrodite's son.</rdfs:comment>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Crethon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Orsilochus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aphareus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Medon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Iasus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Leocritus"/>
 	</owl:NamedIndividual>
 	
 
@@ -1132,6 +1146,15 @@ Aphrodite's son.</rdfs:comment>
 Also the elder brother of King Menelaus.</rdfs:comment>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Odius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Deicoon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Elatus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Bienor"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Oileus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Isus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Antiphus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hippolochus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Coön"/>
 	</owl:NamedIndividual>
 	
 
@@ -1372,6 +1395,22 @@ His prayers to Apollo caused the god to send plague to Agamemnon's armies.</rdfs
 King of Argos.</rdfs:comment>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Phegeus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Astynous"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hypeiron"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Abas"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Polyidus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Xanthus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thoon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Echemmon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pandarus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Axylus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Calesius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Eniopeus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Agelaos"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Dolon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thymbraeus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Agastrophus"/>
 	</owl:NamedIndividual>
 	
 
@@ -1394,6 +1433,8 @@ King of Argos.</rdfs:comment>
 		<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trojan</rdfs:comment>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Iphinous"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Bathycles"/>
 	</owl:NamedIndividual>
 	
 
@@ -1442,6 +1483,29 @@ King of Argos.</rdfs:comment>
 		<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trojan</rdfs:comment>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Menesthes"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Anchialus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Coeranus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teuthras"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trechus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Helenus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Oresbius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Opheltius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Eioneus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Asaeus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Opites"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Agelaus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aesymnus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Orus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hipponous"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Amphimachus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Periphetes"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Stichius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Arcesilaus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Lycophron"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Schedius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Epeigeus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Patroclus"/>
 		<isKilledBy rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Achilles"/>
 	</owl:NamedIndividual>
 	
@@ -1523,6 +1587,10 @@ King of Argos.</rdfs:comment>
 		<rdfs:comment>King of Crete, a Greek commander.</rdfs:comment>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Oenomaus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Othryoneus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Asius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alcathous"/>
 	</owl:NamedIndividual>
 	
 
@@ -1643,6 +1711,13 @@ King of Argos.</rdfs:comment>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#King"/>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pylaemenes"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Peisander"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Dolops"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hyperenor"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thoas"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Euphorbus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Podes"/>
 	</owl:NamedIndividual>
 	
 
@@ -1707,6 +1782,19 @@ King of Argos.</rdfs:comment>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Democoön"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alastor"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alcandrus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Halius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Noemon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Prytanis"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pidytes"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Molion"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hypeirochus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Deïopites"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ennomus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Chersidamas"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Socus"/>
 	</owl:NamedIndividual>
 	
 
@@ -1734,6 +1822,9 @@ King of Argos.</rdfs:comment>
 His abduction of Helen caused the Trojan War.</rdfs:comment>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Menesthius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Euchenor"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Deïochus"/>
 	</owl:NamedIndividual>
 	
 
@@ -1759,6 +1850,31 @@ His abduction of Helen caused the Trojan War.</rdfs:comment>
 		<rdfs:comment>Close friend, companion, and lover of Achilles.</rdfs:comment>
 		
     
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Tlepolemus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Adrestus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Melanippus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Autonous"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pylartes"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Echius"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pyraechmes"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Areilycus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Erymas"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pronous"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thestor"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Erylaus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Amphoterus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Epaltes"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pyris"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ipheus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Euippus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Polymelus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thrasymedes"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Sarpedon"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Sthenelaus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Perimus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Epistor"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Elasus"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Cebriones"/>
 		<isKilledBy rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hector"/>
 	</owl:NamedIndividual>
 	
@@ -1979,6 +2095,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Antilochus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Echepolus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Elephenor -->
@@ -1992,6 +2109,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Agenor">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Elephenor"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Simoeisius -->
@@ -2005,6 +2123,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Telamonian Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Simoeisius"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Leucus -->
@@ -2018,6 +2137,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Antiphus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Leucus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Democoön -->
@@ -2038,6 +2158,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Peirous">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Diores"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Peirous -->
@@ -2051,6 +2172,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thoas">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Peirous"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Phegeus -->
@@ -2078,6 +2200,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Meriones">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Phereclus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pedaeus -->
@@ -2091,6 +2214,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Meges">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pedaeus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hypsenor -->
@@ -2104,6 +2228,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Deïphobus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hypsenor"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Astynous -->
@@ -2166,6 +2291,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Chromius"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pandarus -->
@@ -2291,6 +2417,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Leonteus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Orestes"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trechus -->
@@ -2332,6 +2459,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Meriones">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Acamas"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Axylus -->
@@ -2359,6 +2487,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Euryalus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Dresus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Opheltius -->
@@ -2379,6 +2508,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Euryalus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aesepus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pedasus -->
@@ -2392,6 +2522,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Euryalus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pedasus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Astyalus -->
@@ -2405,6 +2536,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Polypoetes">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Astyalus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pidytes -->
@@ -2425,6 +2557,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aretaon"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ableros -->
@@ -2438,6 +2571,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Antilochus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ableros"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Elatus -->
@@ -2458,6 +2592,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Leitus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Phylacus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Adrestus -->
@@ -2513,6 +2648,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Orsilochos"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ormenus -->
@@ -2526,6 +2662,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Polypoetes">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ormenus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ophelestes -->
@@ -2546,6 +2683,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Daitor"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Lycophontes -->
@@ -2559,6 +2697,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Lycophontes"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Amopaon -->
@@ -2572,6 +2711,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Amopaon"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Melanippus -->
@@ -2592,6 +2732,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Gorgythion"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Archeptolemos -->
@@ -2605,6 +2746,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Archeptolemos"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Dolon -->
@@ -2772,6 +2914,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Antilochus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thoön"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ennomus -->
@@ -2799,6 +2942,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Odyssues">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Charops"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Socus -->
@@ -2819,6 +2963,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Telamonian Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Doryclus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pandocus -->
@@ -2832,6 +2977,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Telamonian Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pandocus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Lysander -->
@@ -2845,6 +2991,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Telamonian Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Lysander"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pyrasus -->
@@ -2858,6 +3005,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Telamonian Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pyrasus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pylartes -->
@@ -2878,6 +3026,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Lycomedes">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Apisaon"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Damasus -->
@@ -2891,6 +3040,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Polypoetes">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Damasus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pylon -->
@@ -2904,6 +3054,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Polypoetes">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pylon"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Antiphates -->
@@ -2917,6 +3068,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Leonteus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Antiphates"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Menon -->
@@ -2930,6 +3082,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Leonteus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Menon"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Iamenus -->
@@ -2943,6 +3096,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Leonteus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Iamenus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Epicles -->
@@ -2956,6 +3110,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Telamonian Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Epicles"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alcmaon -->
@@ -2969,6 +3124,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Sarpedon">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alcmaon"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Imbrius -->
@@ -2982,6 +3138,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Imbrius"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Amphimachus -->
@@ -3023,6 +3180,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Deïphobus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ascalaphus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aphareus -->
@@ -3043,6 +3201,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Meriones">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Adamas"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Deïpyrus -->
@@ -3056,6 +3215,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Helenus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Deïpyrus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Harpalion -->
@@ -3069,6 +3229,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Meriones">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Harpalion"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Euchenor -->
@@ -3089,6 +3250,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Oïlean Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Satnius"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Prothoënor -->
@@ -3102,6 +3264,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Polydamas">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Prothoënor"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Promachus -->
@@ -3115,6 +3278,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Acamas">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Promachus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ilioneus -->
@@ -3128,6 +3292,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Peneleus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ilioneus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Prothoön -->
@@ -3141,6 +3306,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Prothoön"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Periphetes -->
@@ -3168,6 +3334,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Antilochus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Phalces"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mermerus -->
@@ -3181,6 +3348,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Antilochus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mermerus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Stichius -->
@@ -3222,6 +3390,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Polydamas">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mecisteus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Echius -->
@@ -3249,6 +3418,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Telamonian Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Caletor"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Lycophron -->
@@ -3269,6 +3439,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Teucer">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Cleitus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Schedius -->
@@ -3289,6 +3460,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Telamonian Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Laodamas"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Otus -->
@@ -3302,6 +3474,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Polydamas">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Otus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Croesmus -->
@@ -3315,6 +3488,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Meges">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Croesmus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Pyraechmes -->
@@ -3349,6 +3523,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Meges">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Amphiclus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Atymnius -->
@@ -3362,6 +3537,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Antilochus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Atymnius"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Maris -->
@@ -3375,6 +3551,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thrasymedes">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Maris"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Cleobulus -->
@@ -3388,6 +3565,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Oïlean Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Cleobulus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Lyco -->
@@ -3401,6 +3579,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Peneleus">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Lyco"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Erymas -->
@@ -3575,6 +3754,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Telamonian Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hippothous"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Phorcys -->
@@ -3588,6 +3768,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Telamonian Ajax">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Phorcys"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Leocritus -->
@@ -3608,6 +3789,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automedon">
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
 		<rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+		<hasKilled rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aretus"/>
 	</owl:NamedIndividual>
 	<!-- Automated Entry -->
 	<!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Podes -->
