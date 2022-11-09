@@ -64,9 +64,9 @@ for vict, killer in utils.victims.items():
     killer_elem.appendChild(has_killed_elem)
 
 
-# dom.getElementsByTagName("owl:Ontology")[0].setAttribute("rdf:about", f"{ont_name}-auto")
+dom.getElementsByTagName("owl:Ontology")[0].setAttribute("rdf:about", f"{ont_name}-auto")
 
 new_ontology = dom.toprettyxml()
 
-with open(f"{ont_name}.owl", "w") as f:
+with open(f"{ont_name}-auto.owl", "w") as f:
     f.write(new_ontology)
