@@ -14,7 +14,7 @@ def create_individual(name, dom):
     side = {'T': 'Trojan', 'A': 'Greek'}[side]
 
     ind_elem = dom.createElement('owl:NamedIndividual')
-    ind_elem.setAttribute("rdf:about", utils.get_uri(name))
+    ind_elem.setAttribute("rdf:about", f"{utils.get_uri(name)}")
 
     automated_elem = dom.createElement('rdf:type')
     automated_elem.setAttribute("rdf:resource", utils.get_uri("Automated"))
@@ -45,12 +45,13 @@ for vict, killer in utils.victims.items():
         vict_elem = existing_individuals[vict]
     else:
         vict_elem = create_individual(vict, dom)
-        pass
+        existing_individuals[vict] = vict_elem
 
     if killer in existing_individuals:
         killer_elem = existing_individuals[killer]
     else:
         killer_elem = create_individual(killer, dom)
+        existing_individuals[killer] = killer_elem
 
     killer_ref = killer_elem.getAttribute("rdf:about")
     killed_by_elem = dom.createElement("isKilledBy")
