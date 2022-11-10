@@ -3479,6 +3479,15 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
     <rdf:Description rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#e">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#x">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#z">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#y">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
     <rdf:Description>
         <swrla:isRuleEnabled rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrla:isRuleEnabled>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></rdfs:comment>
@@ -3659,6 +3668,65 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
                         <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#rulesOver"/>
                         <swrl:argument1 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#k"/>
                         <swrl:argument2 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#e"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </rdf:Description>
+        </swrl:head>
+    </rdf:Description>
+    <rdf:Description>
+        <swrla:isRuleEnabled rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrla:isRuleEnabled>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sibling</rdfs:label>
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
+        <swrl:body>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf"/>
+                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#x"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#z"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                        <rdf:first>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf"/>
+                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#y"/>
+                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#z"/>
+                            </rdf:Description>
+                        </rdf:first>
+                        <rdf:rest>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                <rdf:first>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DifferentIndividualsAtom"/>
+                                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#x"/>
+                                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#y"/>
+                                    </rdf:Description>
+                                </rdf:first>
+                                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                            </rdf:Description>
+                        </rdf:rest>
+                    </rdf:Description>
+                </rdf:rest>
+            </rdf:Description>
+        </swrl:body>
+        <swrl:head>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isSiblingOf"/>
+                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#x"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#y"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
