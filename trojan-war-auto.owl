@@ -594,6 +594,14 @@
     
 
 
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Titan -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Titan">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Deity"/>
+    </owl:Class>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -961,6 +969,7 @@ Hephaestus&apos; wife.</rdfs:comment>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Apollo">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#God"/>
         <allyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojans"/>
+        <blesses rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Chyrses"/>
         <blesses rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Paris"/>
         <curses rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Agamemnon"/>
         <curses rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cassandra"/>
@@ -3294,6 +3303,32 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
     
 
 
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Titan"/>
+        <isKilledBy rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hades"/>
+        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
+        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Poseidon"/>
+        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+        <fieldOfDivinity>Time</fieldOfDivinity>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Gaia -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Gaia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Titan"/>
+        <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Uranus"/>
+        <isMotherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus"/>
+        <isMotherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Rhea"/>
+        <fieldOfDivinity>Earth</fieldOfDivinity>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Hephaestus -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Hephaestus">
@@ -3336,11 +3371,25 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
     
 
 
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Rhea -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Rhea">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Titan"/>
+        <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus"/>
+        <isMotherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hades"/>
+        <isMotherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
+        <isMotherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Poseidon"/>
+        <isMotherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Scamander -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Scamander">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#God"/>
         <allyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojans"/>
+        <fieldOfDivinity>river</fieldOfDivinity>
     </owl:NamedIndividual>
     
 
@@ -3350,6 +3399,18 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Telemachus">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Man"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Uranus -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Uranus">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Titan"/>
+        <isKilledBy rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus"/>
+        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus"/>
+        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Rhea"/>
+        <fieldOfDivinity>Sky</fieldOfDivinity>
     </owl:NamedIndividual>
     
 
