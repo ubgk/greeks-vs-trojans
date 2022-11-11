@@ -670,6 +670,7 @@
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#King"/>
         <kills rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hector"/>
+        <loves rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Briseis"/>
         <memberOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greeks"/>
         <rulesOver rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Phthia"/>
         <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Peleus"/>
@@ -750,6 +751,8 @@ Aphrodite&apos;s son.</rdfs:comment>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Agamemnon">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#King"/>
+        <loves rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Briseis"/>
+        <loves rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Chryseis"/>
         <memberOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greeks"/>
         <rulesOver rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mycenae"/>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">King of Mycenae, leader of the Greek armies. He caused the famous &quot;wrath of Achilles&quot; by taking Briseis from him, as a compensation for his forced return of Chyrseis&apos; to her father.
@@ -1220,6 +1223,9 @@ Beaten in a fight with Diomedes, only to be rescued by Athena.</rdfs:comment>
     <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Briseis -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Briseis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Human"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman"/>
         <rdfs:comment>&quot;War prize&quot; of Achilles. Agememnon takes her from Achilles to compensate for Crhyseis, which causes the wrath of Achilles and his withdrawal from the war.</rdfs:comment>
     </owl:NamedIndividual>
     
@@ -1425,7 +1431,13 @@ His prayers to Apollo caused the god to send plague to Agamemnon&apos;s armies.<
 
     <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demeter -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demeter"/>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demeter">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Goddess"/>
+        <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus"/>
+        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Rhea"/>
+        <fieldOfDivinity>harvest and fertility</fieldOfDivinity>
+    </owl:NamedIndividual>
     
 
 
@@ -2100,7 +2112,10 @@ King of Argos.</rdfs:comment>
 
     <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Iris -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Iris"/>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Iris">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Goddess"/>
+        <allyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojans"/>
+    </owl:NamedIndividual>
     
 
 
@@ -2718,7 +2733,12 @@ His abduction of Helen caused the Trojan War.</rdfs:comment>
 
     <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Persephone -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Persephone"/>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Persephone">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Goddess"/>
+        <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hades"/>
+        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demeter"/>
+        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+    </owl:NamedIndividual>
     
 
 
