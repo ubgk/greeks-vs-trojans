@@ -212,8 +212,14 @@
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isRuledBy">
         <owl:inverseOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#rulesOver"/>
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alliance"/>
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Kingdom"/>
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alliance"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Kingdom"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
         <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ruler"/>
     </owl:ObjectProperty>
     
@@ -269,8 +275,14 @@
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#rulesOver">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ruler"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alliance"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Kingdom"/>
+        <rdfs:range>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alliance"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Kingdom"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:range>
     </owl:ObjectProperty>
     
 

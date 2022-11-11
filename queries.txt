@@ -1,0 +1,8 @@
+wounds some Deity and Mortal
+blesses min 1 Character and allyOf value Greeks
+Deity and allyOf value Trojans
+isSiblingOf min 1 Character and isChildOf min 1 Character and isParentOf min 1 Character
+kills min 5 Character
+Mortal and isChildOf some Immortal
+Island and isLocatedIn some Place
+Kingdom and isRuledBy some Trojan
