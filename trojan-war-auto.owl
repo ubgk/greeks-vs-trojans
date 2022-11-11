@@ -8,8 +8,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:swrl="http://www.w3.org/2003/11/swrl#"
      xmlns:swrla="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#"
-     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
-     xmlns:untitled-ontology-2="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#">
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#">
     <owl:Ontology rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto"/>
     
 
@@ -202,7 +201,7 @@
     <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isMotherOf -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#isMotherOf">
-        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf"/>
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/#isParentOf"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman"/>
     </owl:ObjectProperty>
     
@@ -296,27 +295,27 @@
     
 
 
-    <!-- http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf -->
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/9/#isChildOf -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf">
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/9/#isChildOf">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <owl:inverseOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/#isParentOf"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isFatherOf -->
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/9/#isFatherOf -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isFatherOf">
-        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/9/#isFatherOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/#isParentOf"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Man"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf -->
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/9/#isParentOf -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isParentOf">
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/9/#isParentOf">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
     </owl:ObjectProperty>
     
@@ -686,7 +685,7 @@
         <loves rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Briseis"/>
         <memberOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greeks"/>
         <rulesOver rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Phthia"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Peleus"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Peleus"/>
         <numberOfShips rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50</numberOfShips>
         <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Peleus"/>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The leader of the Myrmidons (Μυρμιδόνες), son of Peleus.
@@ -721,7 +720,7 @@ The main Greek hero whose wrath is an important element of the Iliad.</rdfs:comm
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aeneas">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
         <memberOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojans"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aphrodite"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aphrodite"/>
         <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aphrodite"/>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hector&apos;s cousin and principal lieutenant.
 
@@ -1048,8 +1047,8 @@ The &quot;archer&quot; god.</rdfs:comment>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#God"/>
         <allyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojans"/>
         <loves rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aphrodite"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
         <fieldOfDivinity>war</fieldOfDivinity>
         <rdfs:comment>God of war.
 
@@ -1106,7 +1105,7 @@ Beaten in a fight with Diomedes, only to be rescued by Athena.</rdfs:comment>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Automated"/>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
         <isKilledBy rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Deïphobus"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ares"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ares"/>
     </owl:NamedIndividual>
     
 
@@ -1169,7 +1168,7 @@ Beaten in a fight with Diomedes, only to be rescued by Athena.</rdfs:comment>
         <blesses rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Diomedes"/>
         <curses rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Paris"/>
         <wounds rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Ares"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
         <fieldOfDivinity>wisdom</fieldOfDivinity>
         <rdfs:comment>Goddess of wisdom, daughter of Zeus.</rdfs:comment>
     </owl:NamedIndividual>
@@ -1310,7 +1309,7 @@ Beaten in a fight with Diomedes, only to be rescued by Athena.</rdfs:comment>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Chryseis">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Chyrses"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Chyrses"/>
         <rdfs:comment>Daughter of Chyrses, a priest of Apollo and war prize of Agamemnon.
 
 Agamemnon was forced to return Chryseis to her father when the father&apos;s prayers to Apollo caused the god to send plague to Greek camps.</rdfs:comment>
@@ -1449,8 +1448,8 @@ His prayers to Apollo caused the god to send plague to Agamemnon&apos;s armies.<
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demeter">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Goddess"/>
         <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Rhea"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Rhea"/>
         <fieldOfDivinity>harvest and fertility</fieldOfDivinity>
     </owl:NamedIndividual>
     
@@ -1920,7 +1919,7 @@ King of Argos.</rdfs:comment>
         <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Menelaus"/>
         <loves rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Paris"/>
         <memberOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojans"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
         <rdfs:comment>Wife of Menelaus, whom she abandons for Paris.</rdfs:comment>
     </owl:NamedIndividual>
     
@@ -2653,8 +2652,8 @@ King of Argos.</rdfs:comment>
         <owl:sameAs rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Alexander"/>
         <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hector"/>
         <kills rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Achilles"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hecuba"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Priam"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hecuba"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Priam"/>
         <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hecuba"/>
         <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Priam"/>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Son of Priam, and brother of Hector.
@@ -2763,8 +2762,8 @@ His abduction of Helen caused the Trojan War.</rdfs:comment>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Persephone">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Goddess"/>
         <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hades"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demeter"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Demeter"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
     </owl:NamedIndividual>
     
 
@@ -2905,7 +2904,7 @@ His abduction of Helen caused the Trojan War.</rdfs:comment>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#King"/>
         <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hecuba"/>
         <rulesOver rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Troy"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hector"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hector"/>
         <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hector"/>
         <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Paris"/>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">King of Troy, husband of Hecuba, father of Hector and Paris.</rdfs:comment>
@@ -3322,10 +3321,10 @@ Helen&apos;s flight to Troy is considered as an abduction by Paris (and an insul
         <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
         <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Poseidon"/>
         <loves rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thetis"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aphrodite"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Apollo"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Athena"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Hephaestus"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aphrodite"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Apollo"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Athena"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Hephaestus"/>
         <fieldOfDivinity>Thunder</fieldOfDivinity>
         <rdfs:comment>King of the gods.
 
@@ -3367,7 +3366,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
         <allyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojans"/>
         <curses rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Agamemnon"/>
         <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Apollo"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
         <fieldOfDivinity>hunt</fieldOfDivinity>
     </owl:NamedIndividual>
     
@@ -3379,8 +3378,8 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman"/>
         <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hector"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hecuba"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Priam"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hecuba"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Priam"/>
     </owl:NamedIndividual>
     
 
@@ -3401,10 +3400,10 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Titan"/>
         <isKilledBy rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hades"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Poseidon"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hades"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Poseidon"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
         <fieldOfDivinity>Time</fieldOfDivinity>
     </owl:NamedIndividual>
     
@@ -3439,7 +3438,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
         <allyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greeks"/>
         <blesses rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Achilles"/>
         <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aphrodite"/>
-        <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
+        <isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
         <fieldOfDivinity>Metalworking</fieldOfDivinity>
     </owl:NamedIndividual>
     
@@ -3529,8 +3528,8 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Uranus">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Titan"/>
         <isKilledBy rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus"/>
-        <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Rhea"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus"/>
+        <isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Rhea"/>
         <fieldOfDivinity>Sky</fieldOfDivinity>
     </owl:NamedIndividual>
     
@@ -3567,7 +3566,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
         <owl:intersectionOf rdf:parseType="Collection">
             <rdf:Description rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Mortal"/>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/#isChildOf"/>
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Immortal"/>
             </owl:Restriction>
         </owl:intersectionOf>
@@ -3900,7 +3899,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/#isChildOf"/>
                         <swrl:argument1 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#c"/>
                         <swrl:argument2 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#m"/>
                     </rdf:Description>
@@ -3926,7 +3925,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isFatherOf"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/#isFatherOf"/>
                         <swrl:argument1 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#m"/>
                         <swrl:argument2 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#c"/>
                     </rdf:Description>
@@ -3946,7 +3945,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/#isChildOf"/>
                         <swrl:argument1 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#c"/>
                         <swrl:argument2 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#m"/>
                     </rdf:Description>
@@ -4086,7 +4085,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/#isChildOf"/>
                         <swrl:argument1 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#x"/>
                         <swrl:argument2 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#z"/>
                     </rdf:Description>
@@ -4097,7 +4096,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/untitled-ontology-2#isChildOf"/>
+                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/9/#isChildOf"/>
                                 <swrl:argument1 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#y"/>
                                 <swrl:argument2 rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#z"/>
                             </rdf:Description>
