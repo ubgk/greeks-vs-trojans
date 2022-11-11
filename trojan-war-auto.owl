@@ -892,6 +892,7 @@ Also the elder brother of King Menelaus.</rdfs:comment>
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Andromache">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman"/>
         <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hector"/>
         <memberOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojans"/>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hector&apos;s wife.</rdfs:comment>
@@ -1822,6 +1823,7 @@ King of Argos.</rdfs:comment>
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greeks">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alliance"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Acheans"/>
         <rdfs:comment>Alliance individual for &quot;Greek&quot;, to use allyOf, memberOf etc.</rdfs:comment>
     </owl:NamedIndividual>
     
@@ -1832,6 +1834,7 @@ King of Argos.</rdfs:comment>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hades">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#God"/>
         <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
+        <fieldOfDivinity>Underworld</fieldOfDivinity>
     </owl:NamedIndividual>
     
 
@@ -3272,11 +3275,20 @@ Helen&apos;s flight to Troy is considered as an abduction by Paris (and an insul
         <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Apollo"/>
         <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Athena"/>
         <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Hephaestus"/>
+        <fieldOfDivinity>Thunder</fieldOfDivinity>
         <rdfs:comment>King of the gods.
 
 Brother of Poseidon and Hera.
 
 Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Acheans -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Acheans">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Alliance"/>
     </owl:NamedIndividual>
     
 
