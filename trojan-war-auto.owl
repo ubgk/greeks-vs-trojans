@@ -3337,6 +3337,17 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
     
 
 
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Clytemnestra -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Clytemnestra">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman"/>
+        <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Agamemnon"/>
+        <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Helen"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Cronus">
