@@ -1972,6 +1972,7 @@ King of Argos.</rdfs:comment>
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Helen">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greek"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Woman"/>
         <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Menelaus"/>
         <loves rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Paris"/>
         <memberOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojans"/>
@@ -3530,7 +3531,6 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#King"/>
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Man"/>
         <rulesOver rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Symi"/>
-        <numberOfShips rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</numberOfShips>
     </owl:NamedIndividual>
     
 
@@ -3579,7 +3579,9 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
 
     <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Symi -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Symi"/>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Symi">
+        <numberOfShips rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</numberOfShips>
+    </owl:NamedIndividual>
     
 
 
