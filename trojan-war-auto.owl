@@ -3341,6 +3341,7 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Artemis">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Goddess"/>
         <allyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Trojans"/>
+        <curses rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Agamemnon"/>
         <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Apollo"/>
         <untitled-ontology-2:isChildOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
         <fieldOfDivinity>hunt</fieldOfDivinity>
