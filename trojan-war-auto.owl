@@ -3163,6 +3163,7 @@ Helen&apos;s flight to Troy is considered as an abduction by Paris (and an insul
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thetis">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Goddess"/>
         <allyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greeks"/>
+        <blesses rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Achilles"/>
         <rdfs:comment>Goddess, mother of Achilles and wife of Peleus.</rdfs:comment>
     </owl:NamedIndividual>
     
