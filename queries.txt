@@ -6,3 +6,4 @@ kills min 5 Character
 Mortal and isChildOf some Immortal
 Island and isLocatedIn some Place
 Kingdom and isRuledBy some Trojan
+numberOfShips min 1
