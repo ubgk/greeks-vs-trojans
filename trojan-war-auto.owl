@@ -2879,6 +2879,7 @@ His abduction of Helen caused the Trojan War.</rdfs:comment>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Poseidon">
         <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#God"/>
         <allyOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Greeks"/>
+        <loves rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thetis"/>
         <fieldOfDivinity>sea</fieldOfDivinity>
         <rdfs:comment>God of the sea. Brother of Zeus.</rdfs:comment>
     </owl:NamedIndividual>
@@ -3306,6 +3307,7 @@ Helen&apos;s flight to Troy is considered as an abduction by Paris (and an insul
         <isMarriedTo rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
         <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hera"/>
         <isSiblingOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Poseidon"/>
+        <loves rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Thetis"/>
         <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Aphrodite"/>
         <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Apollo"/>
         <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Athena"/>
@@ -3379,6 +3381,16 @@ Father of Athena, Aphrodite, Ares, Apollo, and many others!</rdfs:comment>
         <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Poseidon"/>
         <untitled-ontology-2:isFatherOf rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Zeus"/>
         <fieldOfDivinity>Time</fieldOfDivinity>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Eris -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war-auto#Eris">
+        <rdf:type rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Goddess"/>
+        <hates rdf:resource="http://www.semanticweb.org/thomas/ontologies/2022/10/trojan-war#Hermes"/>
+        <fieldOfDivinity>Strife and Discord</fieldOfDivinity>
     </owl:NamedIndividual>
     
 
